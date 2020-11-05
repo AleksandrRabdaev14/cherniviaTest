@@ -1,0 +1,407 @@
+{
+  "message": "hello i18n!!",
+
+
+
+  "activity_name": "Activity Name",
+  "card_tips_points": "Tips :",
+  "label_select_type_typology": "Type",
+  "label_select_surface": "Surface",
+  "label_select_beds": "Beds",
+  "label_select_bathrooms": "Bath",
+  "taxes_info": "taxes and fees included",
+  "label_select_room_space_bed": "Rooms, spaces and beds",
+  "label_select_add": "Add",
+  "label_bed_types_available": "Types of beds available",
+  "label_room_name": "Room name",
+  "label_outdoor_space": "Outdoor spaces",
+  "label_location": "Location",
+  "label_address_line1": "Address line 1",
+  "label_address_line2": "Address line 2",
+  "label_address_placeholder1": "Enter the street name, house number",
+  "label_address_placeholder2": "Eg. Picolo Rododendro condominium",
+  "label_address_placeholder3": "Es. cielo alto",
+  "label_two_room_app": "Two room apartment",
+  "label_class": "Class",
+  "label_select_comfort": "Comfort",
+  "label_add_activity": "Add activity",
+  "label_same_entity": "Same Entity",
+  "label_different_entity": "Different Entity",
+  "label_support": "Support assistance",
+  "label_rules": "Rules and restrictions",
+
+  "header_title_room_type": "Choose how many rooms in the apartment",
+  "header_title_area_type": "Select the living area",
+  "header_title_activity_preview":"Activity preview",
+  "header_title__payment_methods": "Payment methods for tourists",
+  "header_title__services": "Services and amenities",
+
+
+  "placeholder_enter_title": "Enter the title",
+  "payment_type_1": "Adebit pe contul curent",
+  "payment_type_2": "Prin credit card",
+  "payment_question": "Can you currently accept online payments?",
+  "card_tip1_service_missing": "Is there any service missing?",
+  "card_tip1_service_add_later": "Do not worry. We have only listed a few of them. You can add, edit or delete any service from the control panel within your profile.",
+  "card_tip1__service_missing2": "You can then add different regulations and restrictions for your customers to avoid possible inconvenience situations or problems with the neighborhood or condominium regulations.",
+
+
+
+
+
+  "header_title__step1": "Choose a name",
+  "card_tips_title__step1": "Why is this information needed?",
+  "card_tips__step1": "It is a good opportunity to name your property. The name will be visible to tourists and will help you manage multiple businesses using a single account.",
+  "card_tips_point1__step1": "1. choose a short name",
+  "card_tips_point2__step1": "2. try not to let your fantasies go free",
+  "select_class__step1": "Select the class of accommodation you offer",
+  "select_standard__step1": "standard",
+  "select_lusso__step1": "luxury",
+  "step1_of__steps": "step 1 of 10",
+
+
+
+
+
+  "header_title__step2": "Address and geolocation",
+  "card_tips__step2": "Choose the location on the map where your business is located. This location will be visible to tourists and it will be easier for them to find you.",
+  "card_tips_point__step2": "Move the map until the cursor matches your address.",
+  "choose_location__step2": "Choose the location",
+  "location1__step2": "Breuil - Cervinia",
+  "location2__step2": "Valtournenche",
+  "step2_of__steps": "step 2 of 10",
+  "details_title__step2": "Confirm the selected address",
+  "detail_card_tip1__step2": "Does the address match your property?",
+  "detail_card_tip2__step2": "You can change it or add names for condominiums or other information that will help tourists find you.",
+  "detail_cap__step2": "ZIP Code",
+  "detail_placeholder_cap__step2": "ZIP Code",
+
+
+
+
+
+
+  "card_tips__step3": "Describe your business indicating all the spaces and the destination of these. Add the rooms, number of places and the type of beds. Don't forget the spaces such as balconies, gardens or common areas of great interest to your guests.",
+  "step3_of__steps": "step 3 of 10",
+  "detail_tip1__step3": "Please indicate the name, quantity and type of beds available in this room.",
+  "detail_tip2__step3": "The information will be visible to tourists on the profile page of your business, and will allow them to get a clear idea before leaving on vacation.",
+  "detail_placeholder_bedroom__step3": "bedroom",
+
+
+
+
+
+
+  "step4_of__steps": "step 3 of 10",
+
+
+
+
+
+  "header_title__step5": "Image selection",
+  "card_tip_title__step5": "You do not have a photo?",
+  "card_tip__step5": "No problem. You can skip this step and add them later in your profile menu.",
+  "add_photo__step5": "Add photos or videos",
+  "step5_of__steps": "step 5 of 10",
+
+
+
+
+
+  "header_title__step6": "Calculate prices",
+  "card_tips_title__step6": "Not sure what price to set?",
+  "card_tips__step6": "No problem. From your profile you can set the prices you want based on the day, period or seasonality. You can set different prices for weekdays, holidays, weekends or for the whole week.",
+  "price_question__step6": "What price do you want to indicate for a note?",
+  "price_answer__step6": "It is just a test just to make you understand how our platform and commission policy works",
+  "price_input__step6": "Price per day",
+  "calc_activities__step6": "Activities",
+  "calc_commission__step6": "Commission",
+  "calc_price__step6": "Your income",
+  "calc_tourist__step6": "Tourist",
+  "calc_total__step6": "Total tourist",
+  "step8_of__steps": "step 8 of 10",
+
+
+
+
+
+  "payment_info__step7": "Tourists will be able to pay by credit cards, bank transfers, Sepa or use virtual wallets such as Apple Pay, Google Pay, ect and the money arrives directly to your bank account.",
+
+
+  "step9_of__steps": "step 9 of 10",
+
+
+  "detail_title__step7": "Cards accepted",
+
+  
+  "detail_card_choose__step7": "Choose which credit cards you currently accept",
+  "detail2_card_tips_title2__step7": "Still not receiving online payments?",
+  "detail2_card_tips2__step7": "No problem. You can set up different tools from your profile that allow your customers to buy your products or services online and the money goes straight to your account.",
+  "detail2_payment_title__step7": "Allow your guests to pay through Go Cervinia and our partners",
+  "detail2_payment_text__step7": "Regarding transactions and money exchanges We, like most market places and platforms of online tourism products, apologize to our Partner to the", 
+  "detail2_payment_text2__step7": "system because it is one of the safest and most convenient solutions for our customers.",
+  "detail2_payment_question__step7": "How does it work?",
+  "detail2_offline_method1__step7": "A tourist books a vacation or service on Go Cervinia.",
+  "detail2_offline_method2__step7": "The tourist is charged or freezes the amount according to your preferences and we make sure that the tourist pays the full amount before check-in or deadline.",
+
+
+
+
+
+  "card_tips__step8": "If you are not satisfied with the result, don't worry. You can customize your page from your profile by adding, modifying, or deleting any information.",
+  "distance_center__step8": "center",
+  "distance_village__step8": "village",
+  "distance_skilift": "ski-lift",
+  "change_address__step8": "Change of address",
+  "popup_change_name__step8": "Change of name",
+  "popup_price_change__step8": "Price change",
+  "popup_locker__step8": "Locker rooms",
+
+
+
+
+
+  "info_card_text1__step9": "If you have more apartments in this section you can add them or double them if the apartments are of the same category.",
+  "info_card_text2__step9": "In any case, later from your profile you can customize them one by one.",
+  "info_card_settings__step9": "Communication methods and notification settings can be changed from your profile.",
+  "appartment_location_same__step9": "The apartments are located in the same address",
+  "appartment_location_different__step9": "The apartments are located in different addresses",
+  "same_type__step9": "More apartments of the same type",
+  "double__step9": "Double",
+  "another_type__step9": "Apartment of another type",
+
+
+
+
+
+  "card_info1__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "card_info2__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+  "card_info3__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+  "card_info4__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+  "step10_of__steps": "step 10 of 10",
+  "page_info__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "choose_business__step10": "Choose business category",
+
+
+
+
+
+  "step11": "step 11",
+  "step12": "step 12",
+  "registration_completed__step12": "Registrazione completata",
+  "info_card__step12": "Adesso puoi accedere al tuo profilo e scoprire tutti i strumenti e le possibilità per la tua attività.",
+  "congrats__step12": "Congratulazioni! Ti sei registrato con successo.",
+  "card__checkbox1__step12": "Dichiaro che la mia attività e provista di tutte le licenze e permessi necessari per svolgere il tipo di attività che publico su www.gocervinia.com. E questi possono essere mostrati su richiesta da parte nostra. Go Cervinia si prende il diritto di verifica e aprofondimento sulle informazioni da voi rilasciate nel momento della registrazione.",
+  "card__checkbox2__step12": "Dichiaro che o leto e sono a conoscenza con ",
+  "card__checkbox2_link__step12": "Le Clausole Generali",
+
+
+
+
+
+  "step13": "step 13",
+  "verify_number__step13": "Verify the number",
+  "secutiry__step13": "Per la sicureza dei dati e per protegere il vostro account abbiamo impostato il metodo di autentificazione in 2 fattori. In questo modo ogni volta che entrate nel vostro account vi arrivera un sms con un codice che dovete inserirlo insieme alla vostra password.",
+  "verify_enter_phone": "Inserisci il numero di telefono che volete allegare al vostro profilo",
+  "step13_info1": "For data security and to protect your account we have set the 2-factor authentication method. In this way, every time you log into your account you will receive a text message with a code that you must enter together with your password.",
+  "step13_info2": "Enter the phone number you want to attach to your profile",
+
+
+
+
+
+  "card_tips_title__step20": "Not sure which option to choose?",
+  "card_tips_text__step20": "From your profile you can set all the available methods to be able to receive payments online. You can also set the policy of payments and penalties.",
+  "pay_text__step20": "Tourists will be able to pay by credit cards, bank transfers, Sepa or use virtual wallets such as Apple Pay, Google Pay, ect and the money arrives directly to your bank account.",
+
+
+
+
+  "distance_meter": "m",
+  "anwser__yes": "Yes",
+  "anwser__no": "No",
+  "label__max": "max",
+
+
+
+
+
+
+  "uploading...": "Uploading...",
+
+  "button__confirm": "Confirm",
+
+
+
+  "err_long_name": "name is too long",
+  "err_activity_name": "enter your activity name",
+  "err_add_room": "add at least one room",
+  "err_many_bed_type": "too many beds of same type",
+  "err_at_least_type": "must be at least one bed",
+  "err_many_bed_in_room": "too many beds in one room",
+  "err_at_least_photo": "add at least one photo",
+  "err__enter_price": "enter price",
+  "err_enter_activity_name": "enter your activity name",
+  "err_invalid_name": "invalid characters in name",
+  "err_room_unique": "room name is not",
+  "error_room_name_short_long": "room name too short or too long",
+
+
+
+
+
+  "four_room_app": "Four-room apartment",
+  "more_than_five": "More than five rooms",
+  "studio_flat": "Studio flat",
+  "two_room_app": "Two-room apartment",
+  "three_room_app": "Three-room apartment",
+
+  "terrace": "Terrace",
+  "balcony": "Balcony",
+  "garden": "Garden",
+
+  "single_bed": "single bed",
+  "size90x130": "size 90-130cm",
+  "double_bed": "large double bed",
+  "size151x180": "size 151-180cm",
+  "extra_large_double": "extra large double bed",
+  "size181x210": "size 181-210cm",
+  "bunk_bed": "Bunk bed",
+  "x2people": "x2 person",
+  "x1people": "x1 person",
+  "expandable_sofa": "expandable sofa",
+  "sofa": "sofa",
+
+
+
+  "Wi_fi": "Wi-fi",
+  "Panorama": "Panorama",
+  "Ski_room": "Ski room",
+  "Cooking": "Cooking",
+  "Tv_media": "Tv-media",
+  "Biancheria": "Fridge",
+  "Lavatrice": "Washing machine",
+  "Safe_box": "Safe box",
+  "Bagno": "Bathroom",
+  "Disable": "Disable",
+  "Parking": "Parking",
+
+  "Can_you_smoke": "Can you smoke?",
+  "Pets_allowed": "Pets Allowed?",
+  "Party_allowed": "Party allowed?",
+
+
+
+  "button__back": "Back",
+  "button__cancel": "Cancel",
+  "button__continue_business": "Continue as a business account",
+  "button__continue_google": "Continue with Google",
+  "button__done": "Done",
+  "button__login": "Login",
+  "button__next": "Next",
+  "button__recover_password": "Recovery password",
+  "button__register": "Register",
+  "button__restore_login": "Restore login",
+  "button__restore_password": "Restore password",
+  "button__signin_apple": "Sign in with Apple",
+  "button__signin_facebook": "Sign in with Facebook",
+  "button__signin_google": "Sign in with Google",
+  "button__signin": "Sign in",
+  "button__verify": "Verify",
+
+
+
+
+  "header__2_step_verification": "2 step verification",
+  "header__email_exists": "This email already exists",
+  "header__email_phone_notfound": "Email or phone doesn't found",
+  "header__forgot_password": "Forgot your login or password?",
+  "header__login": "Login",
+  "header__new_login": "New login",
+  "header__new_password": "New password",
+  "header__registration": "Registration",
+  "header__restore_login": "Restore login",
+  "header__restore_password": "Restore password",
+  "header__verification_email": "Verification email",
+
+
+
+
+
+
+
+
+
+  "label__desc_problem": "Describe your problem",
+  "label__email_or_phone": "Enter your email or phone number",
+  "label__email": "Email",
+  "label__last_login": "Your first or last log-in",
+  "label__name": "Nome Cognome",
+  "label__new_password": "New password",
+  "label__password": "Password",
+  "label__phone": "Phone",
+  "label__repeat_password": "Repeat password",
+  "label__sms_code": "Sms code",
+  "label__tel": "Telefono",
+  "lable__reg_email_or_phone": "Insert your registration email or phone number",
+
+
+
+  "msg__email_phone_notfound_bold": "Potete rivolgervi al Assistenza",
+  "msg__email_phone_notfound": "Your email or phone number doesn't found in out Database.",
+  "msg__no_link": "If you don't receive the second mail please read this article in faq.",
+  "msg__nolink-faq": "If you don’t receive the second mail please read this article in faq.",
+  "msg__one_app": "whole resort One App",
+  "msg__perfect_holyday": "organize your perferct holyday",
+  "msg__recover_password": "please log-in or recover your password",
+  "msg__send_login_restore_link": "On your email {email} has be sent a restore login link.",
+  "msg__send_password_restore_link": "On your email {email} has be sent a restore password.",
+  "msg__ski_paradise": "Cervinia Ski Paradise",
+  "msg__text_message_with_code": "A text message with your code has been sent to ***-***-{phone}",
+  "msg__text_message_with_code2": "A second message with your code has been sent to ***-***-{phone}",
+  "msg__text_message_with_code3": "You insert wrong code. A second message with your code has been sent to ***-***-{phone}",
+  "msg__verification_email": "On your email {email} has ben sent a verification email.",
+  "msg__verification_email2": "On your email {email} has be sent a second verification email.",
+
+
+
+
+  "placeholder__choose": "Select from the list",
+  "placeholder__choose_password": "choose a password",
+  "placeholder__enter_code": "enter 6 - digit code",
+  "placeholder__enter_email_or_phone": "enter your email or phone number",
+  "placeholder__enter_email": "enter your email",
+  "placeholder__enter_password": "enter password",
+  "placeholder__enter_problem": "Please enter your problem",
+  "placeholder__repeat_password": "repeat password",
+
+
+
+  "link__details": "Details",
+  "link__no_code": "No code?",
+  "link__no_code2": "Still having dificulties? Try this article.",
+  "link__no_code3": "In caso di difficoltà, contattare l'assistenza per aiuto o consigli.",
+  "link__no_link": "No link?",
+  "link__recovery": "Recovery login or password",
+  "link__terms": "I declare to be 18 years old and to accept the Terms & Conditions and the processing of personal data",
+
+
+
+  "err_accept_terms": "accept terms & conditions",
+  "err_email_exists": "email already exists",
+  "err_email_incorrect": "email is incorrect",
+  "err_email_notfound": "the specified email is not registered",
+  "err_email_or_phone_exist": "entered email or phone is already registered",
+  "err_email_or_phone": "enter email or phone",
+  "err_email_phone_invalid": "incorrect email or phone",
+  "err_email_required": "enter email",
+  "err_no_name": "insert your name",
+  "err_password_invalid": "8+ symbols: 0-9 a-z A-Z !@#$%^&*...",
+  "err_password_mismatch": "password mismatch",
+  "err_password_required": "enter password",
+  "err_password_short": "too short",
+  "err_password_wrong": "wrong password",
+  "err_phone_notfound": "the specified phone is not registered",
+  "err_short_name": "name is too short"
+
+}

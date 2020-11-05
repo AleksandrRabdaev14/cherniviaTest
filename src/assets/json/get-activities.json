@@ -1,0 +1,38 @@
+// GET 
+// url: /api/category/:id/activities/
+// Без пагинации
+
+{
+    "success": 1,
+    "message": "Данные успешно получены",
+    "results": [
+        {
+            "id": 1,
+            "category": 1, // ID родительской категории
+            "name": {
+                "ru": "Название какой то ПОД категории",
+                "en": "Name some activity"
+            },
+            "description": {
+                "ru": "Описание какой то категории",
+                "en": "Description some activity"
+            },
+            "slug": "name-some-activity",
+            "img": "url to background image"
+        },
+        {
+            "id": 2,
+            "category": 1, // ID родительской категории
+            "name": {
+                "ru": "Название какой то ПОД категории",
+                "en": "Name some activity"
+            },
+            "description": {
+                "ru": "Описание какой то ПОД категории",
+                "en": "Description some activity"
+            },
+            "slug": "name-some-activity",
+            "img": "url to background image"
+        }
+    ]
+}

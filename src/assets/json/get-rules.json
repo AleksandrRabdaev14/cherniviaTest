@@ -1,0 +1,34 @@
+// GET 
+// url: /api/options/all
+// Без пагинации
+
+{
+    "success": 1,
+    "message": "Данные успешно получены",
+    "results": [
+        {
+            "id": 1,
+            "name": {
+                "ru": "Можно курить",
+                "en": "Smoking allowed"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Можно с животными",
+                "en": "Pets allowed"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Можно проводить вечеринки",
+                "en": "Party allowed"
+            },
+            "img": "url to icon image"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+@import '_vars';
+.ic {
+
+  // Sizes
+  @for $i from 10 through 70 {
+    &#{1 * $i} {  width: 0.1rem * $i; height: 0.1rem * $i; }
+  }
+
+  // Colors
+  &white { fill: #FFF; }
+  &black { fill: #000; }
+  &black3 { fill: $black3; }
+  &grey { fill: #CCC; }
+  &greyd { fill: #979797; }
+  &def { fill: $def; }
+  &green { fill: $green; }
+  &red { fill: $red; }
+  &yellow { fill: $yellow; }
+
+}

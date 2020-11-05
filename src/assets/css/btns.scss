@@ -1,0 +1,122 @@
+@import '_vars';
+// Btns
+.btn {
+  cursor: pointer;
+  font-size: 1.6rem;
+  padding: 16px 20px;
+  border: 0;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #c6c6c6;
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  transform: scale(1);
+  transition: .3s;
+
+  &:hover {
+    background-color: $def-hover;
+    box-shadow: 0px 4px 5px rgba(8, 77, 141, 0.15);
+    transition: .3s;
+  }
+  &:active {
+    background-color: $def-active;
+    transform: scale(0.95);
+    transition: .3s;
+  }
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+  &.wait::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40px;
+  }
+
+
+    // Small
+    &.sm { padding: 12px 20px; }
+
+    // Default
+    &.empty {
+      background: transparent;
+      color: $black;
+      padding: 0;
+      border: 0;
+      &:hover, &:active { background: transparent; box-shadow: none; }
+      &:disabled { background: #c6c6c6; }
+    }
+
+    // Default
+    &.def {
+      border: 2px $def solid;
+      background: $def;
+      color: #FFF;
+      &:hover { background: $def-hover; border: 2px $def-hover solid; }
+      &:active { background: $def-active; border: 2px $def-active solid; }
+      &:disabled { background: #c6c6c6; border: 2px #c6c6c6 solid; }
+      &.wait::before {
+        border: 2px $def solid;
+        background-color: $def;
+        background-image: url('../img/loading-white.svg');
+      }
+    }
+    
+    // Bordered
+    &.defb {
+      border: 2px $def solid;
+      background: #FFF;
+      color: $def;
+      &:hover { border-color: $def-hover; }
+      &:active { border-color: $def-active; }
+      &:disabled { color: #c6c6c6; border-color: #c6c6c6; }
+      &.wait::before {
+        background-color: #FFF;
+        background-image: url('../img/loading.svg');
+      }
+    }
+
+    // Dark
+    &.dark {
+      background: rgba(255, 255, 255, 0.2);
+      color: #FFF;
+      border: 2px #FFF solid;
+      
+      &:hover { background: rgba(255, 255, 255, 0.15); }
+      &:active { background: rgba(255, 255, 255, 0.3); }
+      &:disabled { color: #c4c4c4; background: rgba(255, 255, 255, 0.3); border-color: #c4c4c4; }
+      &.wait::before {
+        background-color: #5D5F5F;
+        background-image: url('../img/loading-white.svg');
+      }
+    }
+
+    // White
+    &.white {
+      background: #FFF;
+      color: $black;
+      border: $border-1;
+      
+      &:hover, &:active { background: transparent; box-shadow: none; }
+    }
+
+    // White bordered
+    &.whiteb {
+      background: #FFF;
+      color: $black;
+      border: $border-1;
+      box-shadow: -5px 5px 10px rgba(242, 242, 242, 0.2), 5px -5px 10px rgba(242, 242, 242, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.9), 5px 5px 13px rgba(242, 242, 242, 0.9), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(242, 242, 242, 0.5);
+      transition: 0s;
+      
+      &:hover, &:active { transform: scale(1); border-color: $green; box-shadow: 0 0 0 1px $green; transition: 0s; }
+    }
+}

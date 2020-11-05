@@ -1,0 +1,50 @@
+// GET 
+// url: /api/options/all
+// Без пагинации
+
+{
+    "success": 1,
+    "message": "Данные успешно получены",
+    "results": [
+        {
+            "id": 1,
+            "name": {
+                "ru": "WiFi",
+                "en": "WiFi"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Кабельное ТВ",
+                "en": "TV-media"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Басейн",
+                "en": "Pool"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 4,
+            "name": {
+                "ru": "Баня",
+                "en": "Sauna"
+            },
+            "img": "url to icon image"
+        },
+        {
+            "id": 5,
+            "name": {
+                "ru": "Спорт зал",
+                "en": "Gym"
+            },
+            "img": "url to icon image"
+        }
+    ]
+}

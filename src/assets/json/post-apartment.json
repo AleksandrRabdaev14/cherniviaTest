@@ -1,0 +1,175 @@
+{
+    "activity": 1,
+    "name": {
+        "ru": "Best Apart",
+        "en": "Best Apart"
+    },
+    "description": {
+        "ru": "Best App",
+        "en": "Best Apart"
+    },
+    "address": {
+        "region": 2,
+        "zip_code": 58493,
+        "zone": 1,
+        "street_1": "128 North Beach St.Eden Prairie",
+        "street_2": "MN 55347",
+        "lat": 46.9946655,
+        "lon": 44.9345665
+    },
+    "season": {
+        "winter_status": 1,
+        "summer_status": 1,
+        "winter_date_start": "2020-11-22",
+        "winter_date_end": "2021-03-22",
+        "summer_date_start": "2021-05-22", 
+        "summer_date_end": "2021-09-22"
+    },
+    "options": [1, 2, 3, 4], // Массив ID options
+    "rules": [1, 2], // Массив ID rules
+    "apartment": {
+        "apr_class": 1,
+        "apr_type": 1,
+        "count_person": 4,
+        "area": 55,
+        "balcony": 1,
+        "terrace": 0,
+        "garden": 0,
+        "count_bathroom": 2,
+        "accessibility": 1,
+        "price": 14.99,
+        "rooms": [
+            {
+                "name": "Abstract Room",
+                "count_single_bed": 0,
+                "count_large_double_bed": 0,
+                "count_extra_large_double_bed": 0,
+                "count_bunk_bed": 1,
+                "count_expandable_sofa": 1,
+                "count_sofa": 1
+            }
+        ]
+    },
+    "images": [
+        "v1598371746/zetz3k3vsn3nzhfdeego.jpg"
+    ],
+    "videos": [
+        "v159456451746/zetzgrtg3nzhfdeego.3gp"
+    ],
+    "food_status": {
+        "winter": {
+            "low": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            },
+            "medium": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            },
+            "hight": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            }
+        },
+        "summer": {
+            "low": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            },
+            "medium": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            },
+            "hight": {
+                "status": 1, // Это видимо статус того включен ли этот сезон?
+                "ro": 1,
+                "sc": 1,
+                "bb": 0,
+                "hb": 1,
+                "fb": 1,
+                "sb": 1,
+                "price": {
+                    "p_bb": 25,
+                    "p_hb": 35,
+                    "p_fb": 45,
+                    "percent_sb": 75,
+                    "global_price": 500 // Это поле нужно для указания цены в конкретный сезон
+                }
+            }
+        }
+    },
+    "payment": {
+        "cash": 1,
+        "american_express": 0,
+        "visa": 0,
+        "euro_mastercard": 0,
+        "diner_club": 0,
+        "jcb": 0,
+        "pin": 1,
+        "maestro": 1,
+        "discover": 0,
+        "card_si": 0,
+        "union_pay": 0,
+        "status": 1
+    }
+}

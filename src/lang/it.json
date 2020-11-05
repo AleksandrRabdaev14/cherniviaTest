@@ -1,0 +1,317 @@
+{
+  "message": " IT hello i18n !!",
+  "activity_name": "Nome Attività",
+    "card_tips_points": "Consiglio :",
+    "label_select_type_typology": "Tipologia",
+    "label_select_surface": "Superfice",
+    "label_select_beds": "Posti letto",
+    "label_select_bathrooms": "Bagni",
+    "taxes_info": "tasse e commisioni inclusi",
+    "label_select_room_space_bed": "Stanze, spazi e leti",
+    "label_select_add": "Aggiungi",
+    "label_bed_types_available": "Tipologia dei letti disponibili",
+    "label_room_name": "Nome stanza",
+    "label_outdoor_space": "Spazi esterni",
+    "label_location": "Località",
+    "label_address_line1": "Indirizzo riga 1",
+    "label_address_line2": "Indirizzo riga 2",
+    "label_address_placeholder1": "Inserire il nome della via, il numero civico",
+    "label_address_placeholder2": "Es. condominio Picolo Rododendro",
+    "label_address_placeholder3": "Es. cielo alto",
+    "label_two_room_app": "Bilocale",
+    "label_class": "Classe",
+    "label_select_comfort": "comfort",
+    "label_add_activity": "Add activity",
+    "label_same_entity": "Same Entity",
+    "label_different_entity": "Different Entity",
+    "label_support": "Support assistance",
+    "label_rules": "Regole e ristrizioni",
+
+    "header_title_room_type": "Scegli quante stanze nell'appartamento",
+    "header_title_area_type": "Selezionare l'area abitativa",
+    "header_title_activity_preview":"Preview attività",
+    "header_title__payment_methods": "Metodi di pagamento per i turisti",
+    "header_title__services": "Servizi e comodità",
+
+
+    "placeholder_enter_title": "Inserisci il titolo",
+    "payment_type_1": "Adebit pe contul curent",
+    "payment_type_2": "Prin credit card",
+    "payment_question": "Al momento puoi acetare i pagamenti online?",
+    "card_tip1_service_missing": "Manca qualche servizio?",
+    "card_tip1_service_add_later": "Non preocuparti. Abbiamo elencato soltanto alcuni di loro. Puoi aggiungere, modificare o eliminare qualsiasi servizio dal panelo di controllo all’interno del tuo profilo.",
+    "card_tip1__service_missing2": "n seguito puoi aggiungere diversi regolamenti e ristrizioni per i tuoi clienti per evitare posibile situazioni di incovenienza o problemi con il vicinato o regolamenti condominiali.",
+
+
+
+
+
+    "header_title__step1": "Scegli un nome",
+    "card_tips_title__step1": "Perche servono queste informazioni?",
+    "card_tips__step1": "E una buona ocasione per dare un nome alla tua struttura. Il nome sarà visibile ai turisti e ti aiutera a gestire piu attività usando un solo account.",
+    "card_tips_point1__step1": "1. scegli un nome corto",
+    "card_tips_point2__step1": "2. cerca di non dare via libera alle tue fantasie",
+
+    "select_class__step1": "Seleziona la classe di alloggio che offri",
+    "select_standard__step1": "standard",
+    "select_lusso__step1": "lusso",
+    "step1_of__steps": "step 1 of 10",
+
+
+
+
+
+    "header_title__step2": "Indirizzo e geolocalizzazione",
+    "card_tips__step2": "Scegli la posizione sulla mappa dove si trova la tua attività. Questa posizione sarà visibile ai turisti e sarà piu facile per loro di trovarti.",
+    "card_tips_point__step2": "Muovi la mappa fino a quando il cursore non corrisponda al tuo indirizzo.",
+    "choose_location__step2": "Scegli la località",
+    "location1__step2": "Breuil - Chervinia",
+    "location2__step2": "Valtournenche",
+    "step2_of__steps": "step 2 of 10",
+    "details_title__step2": "Confermare l'indirizzo selezionato",
+    "detail_card_tip1__step2": "Lindirizzo corrisponde con la vostra struttura?",
+    "detail_card_tip2__step2": "Puoi modificarlo o aggiungere degli come nome dei condomini o altre informazione che potranno aiutare i turisti per trovarvi.",
+    "detail_cap__step2": "Cap",
+    "detail_placeholder_cap__step2": "Cap",
+
+
+
+
+
+    "header_title__step3": "Stanze, spazi e posti leto",
+    "card_tips__step3": "Descrivi la tua attività indicando tutti gli spazi e la destinazione di questi. Aggiungi le camere, quantità dei posti e la tipologia dei letti. Non dimenticarti dei spazi come balconi, giardini o spazi comuni di gran interesse per i tuoi ospiti.",
+    "step3_of__steps": "step 3 of 10",
+    "detail_tip1__step3": "Indica il nome, quantitatà e tipologia di letti disponibili in questa stanza.",
+    "detail_tip2__step3": "Le informazioni sarano visibili ai turisti sulla pagina del profilo della tua attività, e li permeterà di farsi le idee chiare prima di partire per la vacanza.",
+    "detail_placeholder_bedroom__step3": "Camera da letto",
+
+
+
+
+
+
+    "step4_of__steps": "step 3 of 10",
+
+
+
+
+
+    "header_title__step5": "Selezione imagini",
+    "card_tip_title__step5": "Non hai foto?",
+    "card_tip__step5": "No problem. Puoi saltare questo passo e aggiungerli in seguito nel menu del tuo profilo.",
+    "add_photo__step5": "Aggiungi foto o video",
+    "step5_of__steps": "step 5 of 10",
+
+
+
+
+
+    "header_title__step6": "Calcola prezzi",
+    "card_tips_title__step6": "Non sai che prezzo impostare?",
+    "card_tips__step6": "No problem. Dal tuo profilo puoi impostare i prezzi che vuoi in base ai giori, periodi o stagionalità.Puoi impostare prezzi diversi per i giorni feriali, festivi, weekend o per la settimana intera.",
+    "price_question__step6": "Che prezzo vuoi indicare per un note?",
+    "price_answer__step6": "E soltanto un prova giusto per farvi capire come funziona la noastra piataforma e la politica sui commisioni",
+    "price_input__step6": "Prezzo al giorno",
+    "calc_activities__step6": "Attività",
+    "calc_commission__step6": "Comisione",
+    "calc_price__step6": "Il tuo guadagno",
+    "calc_tourist__step6": "Turista",
+    "calc_total__step6": "Totale turista",
+    "step8_of__steps": "step 8 of 10",
+
+
+
+
+
+    "payment_info__step7": "I turisti potrano pagare tramite carte di credito, bonifici, Sepa o utilizare i virtual wallet come Apple Pay, Google Pay, ect ed i soldi ti arrivano direttamente sul tuo conto bancario.",
+
+
+    "step9_of__steps": "step 9 of 10",
+
+
+    "detail_title__step7": "Carte accetate",
+
+   
+    "detail_card_choose__step7": "Scegliete qualle carte di credito accetate al momento",
+    "detail2_card_tips_title2__step7": "Non ricevi ancora i pagamenti online?",
+    "detail2_card_tips2__step7": "No problem. Puoi impostare dal tuo profilo diversi strumenti che permete ai tuoi clienti di acquistare i tuoi prodotti o servizi online e i soldi ti arrivano direttamente sul tuo conto.",
+    "detail2_payment_title__step7": "Permeti ai tuoi ospiti di pagare tramite Go Cervinia e i nostri parner",
+    "detail2_payment_text__step7": "Regarding transactions and money exchanges We, like most market places and platforms of online tourism products, apologize to our Partner to the", 
+    "detail2_payment_text2__step7": "system because it is one of the safest and most convenient solutions for our customers.",
+    "detail2_payment_question__step7": "Come funziona?",
+    "detail2_offline_method1__step7": "Un turista prenota una vacanza o servizio su Go Cervinia.",
+    "detail2_offline_method2__step7": "Al turista li si adebita o si congela l’importo in base alle vostre preferenze e ci assiguriamo che il turista paga l’intero importo prima del check-in o deadline.",
+
+
+
+
+
+    "card_tips__step8": "Se non sei sottisfato del riultato non preocuparti. Puoi personalizare la tua pagina dal tuo profilo agiungendo, modificando, o eliminando qualsiasi informazione.",
+
+    "distance_center__step8": "center",
+    "distance_village__step8": "village",
+    "distance_skilift": "ski-lift",
+    "change_address__step8": "Cambio di idirizzo",
+    "popup_change_name__step8": "Cambio di nome",
+    "popup_price_change__step8": "Cambio di prezzo",
+    "popup_locker__step8": "Spogliatoi",
+
+
+
+
+
+    "info_card_text1__step9": "Se hai piu apartamenti in questa sizione puoi aggiungerli o radoppiare nel caso in cui gli appartamenti sono della stessa categoria.",
+    "info_card_text2__step9": "In ogni caso in seguito dal tuo profilo puoi poersonalizarli uno a una.",
+    "info_card_settings__step9": "I metodi di comunicazione e le impostazioni delle notificazioni possono essere modificate dal tuo profilo.",
+    "appartment_location_same__step9": "Gli appartamenti si trovano nello stesso indirizzo",
+    "appartment_location_different__step9": "Gli appartamenti si trovano nei indirizzi diversi",
+    "same_type__step9": "Piu appartamenti dello stesso tipo",
+    "double__step9": "Radoppia",
+    "another_type__step9": "Appartamento di un altro tipo",
+
+
+
+
+
+    "card_info1__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "card_info2__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+    "card_info3__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+    "card_info4__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+    "step10_of__steps": "step 10 of 10",
+    "page_info__step10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "choose_business__step10": "Choose business category",
+
+
+
+
+
+    "step11": "step 11",
+    "step12": "step 12",
+    "registration_completed__step12": "Registrazione completata",
+    "info_card__step12": "Adesso puoi accedere al tuo profilo e scoprire tutti i strumenti e le possibilità per la tua attività.",
+    "congrats__step12": "Congratulazioni! Ti sei registrato con successo.",
+    "card__checkbox1__step12": "Dichiaro che la mia attività e provista di tutte le licenze e permessi necessari per svolgere il tipo di attività che publico su www.gocervinia.com. E questi possono essere mostrati su richiesta da parte nostra. Go Cervinia si prende il diritto di verifica e aprofondimento sulle informazioni da voi rilasciate nel momento della registrazione.",
+    "card__checkbox2__step12": "Dichiaro che o leto e sono a conoscenza con ",
+    "card__checkbox2_link__step12": "Le Clausole Generali",
+
+
+
+
+
+    "step13": "step 13",
+    "step13_info1": "Per la sicureza dei dati e per protegere il vostro account abbiamo impostato il metodo di autentificazione in 2 fattori. In questo modo ogni volta che entrate nel vostro account vi arrivera un sms con un codice che dovete inserirlo insieme alla vostra password.",
+    "step13_info2": "Inserisci il numero di telefono che volete allegare al vostro profilo",
+
+
+
+
+
+    "card_tips_title__step20": "Non sai qualle opzione scegliere?",
+    "card_tips_text__step20": "Dal tuo profilo puoi impsotare tutti i metodi disponibili per poter ricevere i pagamenti online Puoi anche impostare la politica dei aconti e penalità.",
+    "pay_text__step20": "I turisti potrano pagare tramite carte di credito, bonifici, Sepa o utilizare i virtual wallet come Apple Pay, Google Pay, ect ed i soldi ti arrivano direttamente sul tuo conto bancario.",
+
+
+
+
+    "distance_meter": "m",
+    "anwser__yes": "Si",
+    "anwser__no": "No",
+    "label__max": "max",
+
+
+
+
+
+
+    "uploading...": "Caricare...",
+
+    "button__confirm": "Confirm",
+
+
+
+    "button__back": "Back",
+    "button__cancel": "Cancel",
+    "button__done": "Done",
+    "button__login": "Login",
+    "button__next": "Next",
+    "button__finish": "Finish",
+    "button__verify": "Verify",
+  
+  
+
+  
+
+    "err_accept_terms": "accept terms & conditions",
+    "err_email_exists": "email already exists",
+    "err_email_incorrect": "email is incorrect",
+    "err_email_notfound": "the specified email is not registered",
+    "err_email_or_phone_exist": "entered email or phone is already registered",
+    "err_email_or_phone": "enter email or phone",
+    "err_email_phone_invalid": "incorrect email or phone",
+    "err_email_required": "enter email",
+    "err_no_name": "insert your name",
+    "err_password_invalid": "8+ symbols: 0-9 a-z A-Z !@#$%^&*...",
+    "err_password_mismatch": "password mismatch",
+    "err_password_required": "enter password",
+    "err_password_short": "too short",
+    "err_password_wrong": "wrong password",
+    "err_phone_notfound": "the specified phone is not registered",
+    "err_short_name": "name is too short",
+    "err_long_name": "name is too long",
+    "err_activity_name": "enter your activity name",
+    "err_add_room": "add at least one room",
+    "err_many_bed_type": "too many beds of same type",
+    "err_at_least_type": "must be at least one bed",
+    "err_many_bed_in_room": "too many beds in one room",
+    "err_at_least_photo": "add at least one photo",
+    "err__enter_price": "enter price",
+    "err_enter_activity_name": "enter your activity name",
+    "err_invalid_name": "invalid characters in name",
+    "err_room_unique": "room name is not",
+    "error_room_name_short_long": "room name too short or too long",
+
+
+
+
+
+    "four_room_app": "Quadrilocale",
+    "more_than_five": "Più di cinque camere",
+    "studio_flat": "Monolocale",
+    "two_room_app": "Bilocale",
+    "three_room_app": "Trelocale",
+
+    "terrace": "Terrazza",
+    "balcony": "Balcone",
+    "garden": "Giardino",
+
+    "single_bed": "letto single",
+    "size90x130": "dimensioni 90-130cm",
+    "double_bed": "letto doppie large",
+    "size151x180": "dimensioni 151-180cm",
+    "extra_large_double": "Letto doppie extra-large",
+    "size181x210": "dimensioni 181-210cm",
+    "bunk_bed": "Letto a castello",
+    "x2people": "x2 persone",
+    "x1people": "x1 persone",
+    "expandable_sofa": "divano espandibile",
+    "sofa": "sofa",
+
+
+
+    "Wi_fi": "Wi-fi",
+    "Panorama": "Panorama",
+    "Ski_room": "Ski room",
+    "Cooking": "Cooking",
+    "Tv_media": "Tv-media",
+    "Biancheria": "Biancheria",
+    "Lavatrice": "Lavatrice",
+    "Safe_box": "Safe box",
+    "Bagno": "Bagno",
+    "Disable": "Disable",
+    "Parking": "Parking",
+  
+    "Can_you_smoke": "Se puo fumare?",
+    "Pets_allowed": "Animali amessi?",
+    "Party_allowed": "Partito consentito?"
+  
+}

@@ -1,0 +1,82 @@
+{
+  "message": "Привет от i18n!!",
+
+
+  "button__cancel": "Отмена",
+  "button__next": "Далее",
+  "button__back": "Назад",
+  "button__login": "Войти",
+  "button__register": "Зарегистрироваться",
+  "button__done": "Готово",
+  "button__verify": "Подтвердить",
+  "button__restore_login": "Восстановить логин",
+  "button__restore_password": "Восстановить пароль",
+  "button__continue_google": "Продолжить с Google",
+  "button__continue_business": "Продолжить как бизнес аккаунт",
+  "button__signin_google": "Войти с Google",
+  "button__signin_facebook": "Войти с Facebook",
+  "button__recover_password": "Восстановить пароль",
+  "button__signin_apple": "Войти с Apple",
+  "button__signin": "Войти",
+
+
+  "header__verification_email": "Письмо с подтверждением",
+  "header__email_exists": "Такой email адрес уже существует",
+  "header__login": "Войти",
+  "header__new_login": "Новый аккаунт",
+  "header__restore_login": "Восстановить логин",
+  "header__forgot_password": "Забыли логин или пароль?",
+  "header__new_password": "Новый пароль",
+  "header__email_phone_notfound": "Телефон или email не найден",
+  "header__registration": "Регистрация",
+
+
+  "lable__reg_email_or_phone": "Insert your registration email or phone number",
+  "label__email_or_phone": "Enter your email or phone number",
+  "label__new_password": "Новый пароль",
+  "label__email": "Email",
+  "label__password": "Пароль",
+  "label__repeat_password": "Пароль еще раз",
+  "label__name": "Имя",
+  "label__tel": "!!!!!!!!!!!Telefono",
+  "label__last_login": "Your first or last log-in",
+  "label__desc_problem": "Опишите проблему",
+
+
+  "msg__verification_email": "На Ваш адрес электронной почты {email} было отправлено письмо с ссылкой для активации аккаунта.",
+  "msg__recover_password": "please log-in or recover your password",
+  "msg__no_link": "If you don't receive the second mail please read this article in faq.",
+  "msg__email_phone_notfound": "Your email or phone number doesn't found in out Database.",
+  "msg__email_phone_notfound_bold": "!!!!!!!!!!!!!Potete rivolgervi al Assistenza",
+  "msg__ski_paradise": "Горнолыжный Рай Червинии",
+  "msg__one_app": "весь курорт в Одном Приложении",
+  "msg__perfect_holyday": "организуй свой идеальный отпуск",
+
+  "placeholder__choose": "Выберите из списка",
+  "placeholder__choose_password": "выберите пароль",
+  "placeholder__repeat_password": "повторите пароль",
+  "placeholder__enter_password": "введите пароль",
+  "placeholder__enter_problem": "Пожалуйста опишите проблему",
+
+
+  "link__no_link": "Нет ссылки?",
+  "link__details": "Детали",
+  "link__recovery": "Восстановление логина или пароля",
+  "link__terms": "!!!!!!!!!!!!!Dichiaro di avere 18 anni e di Accettare i Termini & Condizione e il tratamento dei dati personali",
+
+
+  "err_email_incorrect": "некорректный email",
+  "err_password_mismatch": "пароль не совпадает",
+  "err_email_exists": "email уже существует",
+  "err_email_notfound": "указанный email не зарегистрирован",
+  "err_password_wrong": "неверный пароль",
+
+
+  "choose_business__step10": "Выберите категорию"
+
+
+
+
+
+
+}

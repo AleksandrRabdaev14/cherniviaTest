@@ -1,0 +1,36 @@
+// GET 
+// url: /api/category/all
+// Без пагинации
+
+{
+    "success": 1,
+    "message": "Данные успешно получены",
+    "results": [
+        {
+            "id": 1,
+            "name": {
+                "ru": "Название какой то категории",
+                "en": "Name some category"
+            },
+            "description": {
+                "ru": "Описание какой то категории",
+                "en": "Description some category"
+            },
+            "slug": "name-some-category",
+            "img": "url to background image"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Название какой то категории",
+                "en": "Name some category"
+            },
+            "description": {
+                "ru": "Описание какой то категории",
+                "en": "Description some category"
+            },
+            "slug": "name-some-category",
+            "img": "url to background image"
+        }
+    ]
+}
